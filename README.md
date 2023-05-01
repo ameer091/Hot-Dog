@@ -3,7 +3,7 @@
 `npm install`
 
 
- Go to the Micorsoft Azure documentation to use get the information in the app.js file
+ Go to the Micorsoft Azure documentation to use get the information in the app.js file.  
  Use Cloudinary to store the images that are upload for comparison
 
 ---
